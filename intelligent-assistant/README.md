@@ -2,7 +2,7 @@
 
 Un projet Spring Boot complet intÃ©grant GPT-4o et Llama 3.2.
 
-## ðŸš€ Démarrage rapide
+##  Démarrage rapide
 
 ### 1. Configurer la clé OpenAI
 ```powershell
