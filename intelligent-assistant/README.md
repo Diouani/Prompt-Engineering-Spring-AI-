@@ -1,6 +1,6 @@
 ﻿# – Assistant Intelligent - Chatbot Spring Boot IA
 
-Un projet Spring Boot complet intÃ©grant GPT-4o et Llama 3.2.
+Un projet Spring Boot complet intégrant GPT-4o et Llama 3.2.
 
 ##  Démarrage rapide
 
