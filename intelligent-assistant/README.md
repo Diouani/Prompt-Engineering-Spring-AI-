@@ -1,4 +1,4 @@
-﻿# ðŸ¤– Assistant Intelligent - Chatbot Spring Boot IA
+﻿# – Assistant Intelligent - Chatbot Spring Boot IA
 
 Un projet Spring Boot complet intÃ©grant GPT-4o et Llama 3.2.
 
@@ -20,7 +20,7 @@ ollama serve
 mvn spring-boot:run
 ```
 
-## ðŸ”— Endpoints principaux
+## — Endpoints principaux
 
 - `POST /api/conversation/discuter` - Chat avec mémoire
 - `POST /api/cinema/recommandations` - Recommandations de films  
@@ -29,12 +29,12 @@ mvn spring-boot:run
 - `POST /api/comparaison/comparer` - Comparaison des modéles
 - `GET /api/test/ping` - Test de connectivité
 
-## ðŸ“Š Interfaces
+##  Interfaces
 
 - Application: http://localhost:8080
 - Console H2: http://localhost:8080/h2-console (sa/password)
 
-## ðŸ§ª Tests rapides
+##  Tests rapides
 
 ```powershell
 # Test de base
